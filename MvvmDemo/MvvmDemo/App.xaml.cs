@@ -10,7 +10,7 @@ namespace MvvmDemo
 		public App ()
 		{
 			InitializeComponent();
-            MainPage = new NavigationPage(new View.Login());
+            MainPage = new NavigationPage(new View.HomePage());
 
 //			MainPage = new MainPage();
 		}

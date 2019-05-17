@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PracticePro\\MvvmDemo\\MvvmDemo\\MvvmDemo.Android\\MvvmDemo.Android.csproj": {}
+  },
+  "projects": {
+    "D:\\PracticePro\\MvvmDemo\\MvvmDemo\\MvvmDemo.Android\\MvvmDemo.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PracticePro\\MvvmDemo\\MvvmDemo\\MvvmDemo.Android\\MvvmDemo.Android.csproj",
+        "projectName": "MvvmDemo.Android",
+        "projectPath": "D:\\PracticePro\\MvvmDemo\\MvvmDemo\\MvvmDemo.Android\\MvvmDemo.Android.csproj",
+        "packagesPath": "C:\\Users\\abhishekk\\.nuget\\packages\\",
+        "outputPath": "D:\\PracticePro\\MvvmDemo\\MvvmDemo\\MvvmDemo.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhishekk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[27.0.2, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[27.0.2, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[27.0.2, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[27.0.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.2.0.729530-pre2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
